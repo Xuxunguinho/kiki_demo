@@ -1,5 +1,6 @@
-# kiki_demo
-kiki demo Project   .Net 5
+# kiki_demo .Net 5
+
+Small Project to demonstrate Kiki's potential
 
 ***Note***: *for the example, let's consider **a software development company that is hiring Developers**,
 these developers are evaluated based on some areas of knowledge such as: programming language skills, platform skills, and framework skills.*
