@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\QBinary 01\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\QBinary 01\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_kiki_demo.633227388.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\GitHubs\kiki\kiki" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Enums.cs" t="Include" />
+      <e p="Evaluator.cs" t="Include" />
+      <e p="EvaluatorScriptCore.cs" t="Include" />
+      <e p="EvaluatorTrigger.cs" t="Include" />
+      <e p="kiki.csproj" t="IncludeRecursive" />
+      <e p="KikiEvaluatorResultMessage.cs" t="Include" />
+      <e p="Lex.cs" t="Include" />
+      <e p="lizzie" t="Include">
+        <e p="Arguments.cs" t="Include" />
+        <e p="BindAttribute.cs" t="Include" />
+        <e p="Binder.cs" t="Include" />
+        <e p="Compiler.cs" t="Include" />
+        <e p="exceptions" t="Include">
+          <e p="LizzieBindingException.cs" t="Include" />
+          <e p="LizzieException.cs" t="Include" />
+          <e p="LizzieParsingException.cs" t="Include" />
+          <e p="LizzieRuntimeException.cs" t="Include" />
+          <e p="LizzieTokenizerException.cs" t="Include" />
+        </e>
+        <e p="Function.cs" t="Include" />
+        <e p="Functions.cs" t="Include" />
+        <e p="ITokenizer.cs" t="Include" />
+        <e p="LambdaCompiler.cs" t="Include" />
+        <e p="LizzieTokenizer.cs" t="Include" />
+        <e p="Tokenizer.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netstandard2.0" t="Include">
+            <e p="kiki.AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="TempPE" t="Include" />
+        </e>
+        <e p="project.assets.json" t="Include" />
+      </e>
+    </e>
+    <e p="D:\Projects\GitHubs\kiki_demo" t="IncludeFlat">
+      <e p="kiki_demo" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="kiki_demo.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="kiki_demo.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Repository.cs" t="Include" />
+        <e p="SoftwareDeveloperJobApplication.cs" t="Include" />
+      </e>
+      <e p="kiki_demo.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
